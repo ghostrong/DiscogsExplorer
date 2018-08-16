@@ -1,4 +1,4 @@
-# DiscogsExplorer
+# Discogs Data Explorer
 Explore the data from discogs
 
 * [All Artists on Discogs](artists/)
